@@ -16,7 +16,7 @@ Foi considerado como churn, para cada grupo de clientes, o seguinte:
 
 O Gráfico abaixo apresenta o Churn rate de 2016 à 2020: 
 
-![plot]('churn_rate.png')
+![Alt text]('churn_rate.png')
 
 
 Fica bem claro, através da comparação do churn rate nos períodos, que a hispótese de que **"O churn de novos clientes é maior do que o churn de clientes ativos"** é **verdadeira!**
