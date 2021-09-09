@@ -21,10 +21,9 @@ Todo o desenvolvimento da análise esta no notebook [1°_Desafio.ipynb](https://
 
 Fica bem claro, através da comparação do churn rate nos períodos, que a hispótese de que **"O churn de novos clientes é maior do que o churn de clientes ativos"** é **verdadeira!**
 
-## ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 2º Desafio
 
 Dadas as agendas de duas pessoas e seus respectivos horários de trabalho, escreva um algoritmo que retorna todos os horários nos quais ambas as pessoas estariam disponíveis para uma reunião de t minutos. As agendas serão compostas por uma lista de n compromissos previamente marcados.Esses compromissos, por sua vez, serão representados por uma lista ou tuple de duas strings, no qual o primeiro elemento representa o horário de início do compromisso e o último elemento o horário de término. A jornada de trabalho terá o mesmo formato de um compromisso, no qual o primeiro elemento representa o horário de início do turno e o último elemento o horário final da jornada. O tempo da reunião, em minutos, será um inteiro. Por fim, espera-se que o resultado esteja no mesmo formato das agendas, nos quais os “compromissos”, nesse caso, correspondem aos horários disponíveis para a reunião.
 
-Todo o desenvolvimento da solução está no arquivo 2°_Desafio.py. O case de teste é apresentado ao final.
+Todo o desenvolvimento da solução está no arquivo [2°_Desafio.py](https://github.com/JoseWalterLima/Localiza/blob/main/2%C2%B0_Desafio.py). O case de teste é apresentado ao final.
