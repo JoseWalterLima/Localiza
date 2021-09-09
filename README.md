@@ -14,7 +14,7 @@ Foi considerado como churn, para cada grupo de clientes, o seguinte:
 **Churn de Clientes Ativos**: clientes ativos que não fizeram nenhuma contratação no ano analisado. Caso esse mesmo cliente faça uma contratação em algum ano posterior, será considerado como um Novo Cliente.
 **Churn de Novos Clientes**: novos clientes que fizeram apenas uma contratação no ano analisado. Esses clientes aparecerão no cálculo do ano seguinte como clientes ativos, fato que precisa ser melhor discutido com a área de negócio para determinar se faz sentido essa premissa. 
 
-Todo o desenvolvimento da análise esta no notebook [here](1°_Desafio.ipynb). O Gráfico abaixo apresenta o Churn rate de 2016 à 2020, para Clientes Ativos e Novos Clientes: 
+Todo o desenvolvimento da análise esta no notebook [1°_Desafio.ipynb](https://github.com/JoseWalterLima/Localiza/blob/main/1%C2%BA_Desafio.ipynb). O Gráfico abaixo apresenta o Churn rate de 2016 à 2020, para Clientes Ativos e Novos Clientes: 
 
 ![ScreenShot](churn_rates.png)
 
